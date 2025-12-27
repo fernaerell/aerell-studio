@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "vscode",
-        "TODO"
+        "TODO",
+        "README"
     ]
 }
