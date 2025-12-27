@@ -1,0 +1,6 @@
+Aerell Studio
+ISSUES & TODO LIST
+- Text Editor: Make Highlight the current line number (caret position).
+- Text Editor: Make Highlight the current line at the caret position.
+- Text Editor: Set Font Size 14
+- Text Editor: Set Font Family Cascadia Code, Consolas, Courier New, monospace
