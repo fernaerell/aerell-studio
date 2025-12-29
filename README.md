@@ -1,5 +1,5 @@
 # Aerell Studio
 
-A unified development platform.
+> This project is under development.
 
-| This project is under development.
+A unified development platform.
